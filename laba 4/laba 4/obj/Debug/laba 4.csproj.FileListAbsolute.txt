@@ -1,0 +1,7 @@
+C:\Федя\prog\laba 4\laba 4\obj\Debug\laba 4.csproj.AssemblyReference.cache
+C:\Федя\prog\laba 4\laba 4\obj\Debug\laba 4.csproj.CoreCompileInputs.cache
+C:\Федя\prog\laba 4\laba 4\bin\Debug\laba 4.exe.config
+C:\Федя\prog\laba 4\laba 4\bin\Debug\laba 4.exe
+C:\Федя\prog\laba 4\laba 4\bin\Debug\laba 4.pdb
+C:\Федя\prog\laba 4\laba 4\obj\Debug\laba 4.exe
+C:\Федя\prog\laba 4\laba 4\obj\Debug\laba 4.pdb
