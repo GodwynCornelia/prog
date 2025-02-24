@@ -1,7 +1,0 @@
-C:\Федя\prog\prac3\prac3\bin\Debug\prac3.exe.config
-C:\Федя\prog\prac3\prac3\bin\Debug\prac3.exe
-C:\Федя\prog\prac3\prac3\bin\Debug\prac3.pdb
-C:\Федя\prog\prac3\prac3\obj\Debug\prac3.csproj.AssemblyReference.cache
-C:\Федя\prog\prac3\prac3\obj\Debug\prac3.csproj.CoreCompileInputs.cache
-C:\Федя\prog\prac3\prac3\obj\Debug\prac3.exe
-C:\Федя\prog\prac3\prac3\obj\Debug\prac3.pdb
